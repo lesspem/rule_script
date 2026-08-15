@@ -4,8 +4,11 @@
 
 ## 123AV
 
-覆盖 `123av.com` 及其同源域名 `123av.app` / `123av.me`, 以及前身域名 `njav.tv`。
-IP-CIDR 段为上述域名当前解析出的 Cloudflare 地址, 作为 DNS 污染时的兜底。
+覆盖 `123av.com` 及同源域名 `123av.app` / `123av.me`, 以及前身域名 `njav.tv`。
+
+仅使用域名规则, 不含 IP-CIDR。这些站点均由 Cloudflare 托管, 解析出的
+`104.21.x` / `172.67.x` / `104.26.x` 属共享 anycast 地址, pin 成 /32 会
+误捞无关网站, 且会随时轮换, 因此不收录。
 
 ### Surge
 
