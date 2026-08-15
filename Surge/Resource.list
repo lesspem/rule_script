@@ -1,0 +1,11 @@
+# NAME: Resource
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:40:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,javstore.net
+DOMAIN-SUFFIX,3xplanet.com
+DOMAIN-SUFFIX,javbest.net
+DOMAIN-SUFFIX,jpvy.org
+DOMAIN-SUFFIX,javfree.me
