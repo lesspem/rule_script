@@ -1,0 +1,11 @@
+# NAME: Magnet
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:40:00
+# HOST-SUFFIX: 5
+# TOTAL: 5
+host-suffix, u3c3.com, proxy
+host-suffix, u9a9.com, proxy
+host-suffix, btsow.lol, proxy
+host-suffix, sukebei.nyaa.si, proxy
+host-suffix, magnet.pics, proxy
