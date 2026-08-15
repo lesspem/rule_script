@@ -1,9 +1,9 @@
 # NAME: JavDB
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-08-15 23:55:00
-# DOMAIN-SUFFIX: 18
-# TOTAL: 18
+# UPDATED: 2026-08-16 01:35:00
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdb.app
 DOMAIN-SUFFIX,javdb.vip
@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,javdb574.com
 DOMAIN-SUFFIX,javdb575.com
 DOMAIN-SUFFIX,javdb576.com
 DOMAIN-SUFFIX,jdbstatic.com
+DOMAIN-SUFFIX,blxr5es.com
