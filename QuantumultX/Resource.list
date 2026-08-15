@@ -1,0 +1,11 @@
+# NAME: Resource
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:40:00
+# HOST-SUFFIX: 5
+# TOTAL: 5
+host-suffix, javstore.net, proxy
+host-suffix, 3xplanet.com, proxy
+host-suffix, javbest.net, proxy
+host-suffix, jpvy.org, proxy
+host-suffix, javfree.me, proxy
