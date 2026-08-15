@@ -1,0 +1,8 @@
+# NAME: JavBus
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:15:00
+# HOST-SUFFIX: 2
+# TOTAL: 2
+host-suffix, javbus.com, proxy
+host-suffix, javbus.org, proxy
