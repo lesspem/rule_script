@@ -1,0 +1,10 @@
+# NAME: MissAV
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:15:00
+# HOST-SUFFIX: 4
+# TOTAL: 4
+host-suffix, missav.live, proxy
+host-suffix, missav.ws, proxy
+host-suffix, missav.ai, proxy
+host-suffix, missav123.com, proxy
