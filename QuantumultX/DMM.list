@@ -1,11 +1,12 @@
 # NAME: DMM
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-08-15 23:30:00
-# HOST-SUFFIX: 3
+# UPDATED: 2026-08-15 23:45:00
+# HOST-SUFFIX: 4
 # HOST: 1
-# TOTAL: 4
+# TOTAL: 5
 host-suffix, dmm.co.jp, proxy
 host-suffix, dmm.com, proxy
 host-suffix, dmm-extension.com, proxy
+host-suffix, dmmapis.com, proxy
 host, d2ezz24t9nm0vu.cloudfront.net, proxy
