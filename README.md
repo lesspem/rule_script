@@ -1,32 +1,20 @@
 # rule_script
 
-代理分流规则集合。
+代理分流规则集合。格式与 [lesspem/Surge](https://github.com/lesspem/Surge) 保持一致。
 
-## 123av.com
+## 123AV
 
-覆盖 `123av.com` 主域名, 以及含 `123av` 关键词的镜像站与子域名。
+覆盖 `123av.com` 及其同源域名 `123av.app` / `123av.me`, 以及前身域名 `njav.tv`。
+IP-CIDR 段为上述域名当前解析出的 Cloudflare 地址, 作为 DNS 污染时的兜底。
 
 ### Surge
 
-在配置 `[Rule]` 段添加:
-
 ```
-RULE-SET,https://raw.githubusercontent.com/lesspem/rule_script/main/Surge/123av.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/lesspem/rule_script/main/Surge/123AV.list,PROXY
 ```
-
-把末尾 `PROXY` 换成你自己的策略组名。
 
 ### Quantumult X
 
-在配置 `[filter_remote]` 段添加:
-
 ```
-https://raw.githubusercontent.com/lesspem/rule_script/main/QuantumultX/123av.list, tag=123av, force-policy=proxy, enabled=true
+https://raw.githubusercontent.com/lesspem/rule_script/main/QuantumultX/123AV.list, tag=123AV, force-policy=proxy, enabled=true
 ```
-
-把 `force-policy=proxy` 里的 `proxy` 换成你自己的策略组名。
-
-### 说明
-
-`DOMAIN-KEYWORD` / `host-keyword` 用于覆盖该站频繁更换的镜像域名,
-代价是会匹配任何含 `123av` 字样的域名。只要精确匹配可删掉该行。
