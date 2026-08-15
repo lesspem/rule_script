@@ -1,0 +1,9 @@
+# NAME: FC2
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:40:00
+# HOST-SUFFIX: 1
+# HOST: 1
+# TOTAL: 2
+host, adult.contents.fc2.com, proxy
+host-suffix, fc2ppvdb.com, proxy
