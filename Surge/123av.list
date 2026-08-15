@@ -1,0 +1,8 @@
+# 123av.com 分流规则 (Surge Rule Set)
+# 用法: 在 Surge 配置的 [Rule] 段引用
+#   RULE-SET,https://raw.githubusercontent.com/lesspem/rule_script/main/Surge/123av.list,PROXY
+# 规则集内不写策略, 策略由 RULE-SET 行末尾指定
+# Updated: 2026-08-15
+
+DOMAIN-SUFFIX,123av.com
+DOMAIN-KEYWORD,123av
