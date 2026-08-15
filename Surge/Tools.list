@@ -1,0 +1,11 @@
+# NAME: Tools
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:40:00
+# DOMAIN: 5
+# TOTAL: 5
+DOMAIN,translate-pa.googleapis.com
+DOMAIN,raw.githubusercontent.com
+DOMAIN,lesspem.github.io
+DOMAIN,ja.wikipedia.org
+DOMAIN,api.imgur.com
