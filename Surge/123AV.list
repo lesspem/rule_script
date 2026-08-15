@@ -1,20 +1,10 @@
 # NAME: 123AV
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-08-15 23:10:00
+# UPDATED: 2026-08-15 23:15:00
 # DOMAIN-SUFFIX: 4
-# IP-CIDR: 9
-# TOTAL: 13
+# TOTAL: 4
 DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,123av.app
 DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,njav.tv
-IP-CIDR,104.26.9.106/32,no-resolve
-IP-CIDR,104.26.8.106/32,no-resolve
-IP-CIDR,172.67.73.151/32,no-resolve
-IP-CIDR,104.21.47.167/32,no-resolve
-IP-CIDR,172.67.171.174/32,no-resolve
-IP-CIDR,104.21.63.183/32,no-resolve
-IP-CIDR,172.67.171.155/32,no-resolve
-IP-CIDR,104.21.83.198/32,no-resolve
-IP-CIDR,172.67.181.8/32,no-resolve
