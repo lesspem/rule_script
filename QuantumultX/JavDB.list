@@ -1,9 +1,9 @@
 # NAME: JavDB
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-08-15 23:55:00
-# HOST-SUFFIX: 18
-# TOTAL: 18
+# UPDATED: 2026-08-16 01:35:00
+# HOST-SUFFIX: 19
+# TOTAL: 19
 host-suffix, javdb.com, proxy
 host-suffix, javdb.app, proxy
 host-suffix, javdb.vip, proxy
@@ -22,3 +22,4 @@ host-suffix, javdb574.com, proxy
 host-suffix, javdb575.com, proxy
 host-suffix, javdb576.com, proxy
 host-suffix, jdbstatic.com, proxy
+host-suffix, blxr5es.com, proxy
