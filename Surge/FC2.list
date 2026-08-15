@@ -1,0 +1,9 @@
+# NAME: FC2
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-16 00:40:00
+# DOMAIN-SUFFIX: 1
+# DOMAIN: 1
+# TOTAL: 2
+DOMAIN,adult.contents.fc2.com
+DOMAIN-SUFFIX,fc2ppvdb.com
