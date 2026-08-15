@@ -1,8 +1,0 @@
-# 123av.com 分流规则 (Quantumult X)
-# 用法: 在配置 [filter_remote] 段引用
-#   https://raw.githubusercontent.com/lesspem/rule_script/main/QuantumultX/123av.list, tag=123av, force-policy=proxy, enabled=true
-# 行末 proxy 为策略名, 可被 force-policy 覆盖
-# Updated: 2026-08-15
-
-host-suffix, 123av.com, proxy
-host-keyword, 123av, proxy
