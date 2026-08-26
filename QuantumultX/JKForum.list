@@ -1,0 +1,11 @@
+# NAME: JKForum
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-26 09:01:00
+# HOST-SUFFIX: 5
+# TOTAL: 5
+host-suffix, jkforum.net, proxy
+host-suffix, jkf.lv, proxy
+host-suffix, hare200.com, proxy
+host-suffix, ap-ea.asia, proxy
+host-suffix, mymyuc.net, proxy

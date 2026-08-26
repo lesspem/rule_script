@@ -1,0 +1,11 @@
+# NAME: JKForum
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-26 09:01:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,jkf.lv
+DOMAIN-SUFFIX,hare200.com
+DOMAIN-SUFFIX,ap-ea.asia
+DOMAIN-SUFFIX,mymyuc.net
