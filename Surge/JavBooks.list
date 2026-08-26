@@ -1,0 +1,9 @@
+# NAME: JavBooks
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-26 09:40:00
+# NOTE: cover images are served from pics.dmm.co.jp, already covered by DMM.list
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,javbooks.com
+DOMAIN-SUFFIX,jkk023.com

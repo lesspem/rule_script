@@ -1,0 +1,10 @@
+# NAME: JavGuru
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-26 09:40:00
+# HOST-SUFFIX: 4
+# TOTAL: 4
+host-suffix, jav.guru, proxy
+host-suffix, javmiku.com, proxy
+host-suffix, javsts.com, proxy
+host-suffix, javnorth.com, proxy

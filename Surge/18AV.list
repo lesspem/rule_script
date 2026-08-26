@@ -1,0 +1,11 @@
+# NAME: 18AV
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-26 09:40:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,mm-cg.com
+DOMAIN-SUFFIX,imgstream1.com
+DOMAIN-SUFFIX,mm18vd.com
+DOMAIN-SUFFIX,mjv18vb.com
+DOMAIN-SUFFIX,jmvbt.com

@@ -1,0 +1,11 @@
+# NAME: 18AV
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-26 09:40:00
+# HOST-SUFFIX: 5
+# TOTAL: 5
+host-suffix, mm-cg.com, proxy
+host-suffix, imgstream1.com, proxy
+host-suffix, mm18vd.com, proxy
+host-suffix, mjv18vb.com, proxy
+host-suffix, jmvbt.com, proxy
