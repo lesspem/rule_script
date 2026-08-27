@@ -1,0 +1,23 @@
+# NAME: GitHub
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-28 00:54:00
+# DOMAIN-SUFFIX: 13
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 15
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN-KEYWORD,github-production

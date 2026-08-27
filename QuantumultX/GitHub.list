@@ -1,0 +1,23 @@
+# NAME: GitHub
+# AUTHOR: lesspem
+# REPO: https://github.com/lesspem/rule_script
+# UPDATED: 2026-08-28 00:54:00
+# HOST-SUFFIX: 13
+# HOST: 1
+# HOST-KEYWORD: 1
+# TOTAL: 15
+host-suffix, github.com, proxy
+host-suffix, githubusercontent.com, proxy
+host-suffix, githubassets.com, proxy
+host-suffix, githubapp.com, proxy
+host-suffix, githubcopilot.com, proxy
+host-suffix, githubstatus.com, proxy
+host-suffix, githubnext.com, proxy
+host-suffix, github.io, proxy
+host-suffix, github.dev, proxy
+host-suffix, github.blog, proxy
+host-suffix, github.community, proxy
+host-suffix, ghcr.io, proxy
+host-suffix, git.io, proxy
+host, github-cloud.s3.amazonaws.com, proxy
+host-keyword, github-production, proxy
