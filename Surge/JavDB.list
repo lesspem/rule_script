@@ -1,9 +1,9 @@
 # NAME: JavDB
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-09-16 03:25:00
-# DOMAIN-SUFFIX: 26
-# TOTAL: 26
+# UPDATED: 2026-09-16 03:55:00
+# DOMAIN-SUFFIX: 28
+# TOTAL: 28
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdb.app
 DOMAIN-SUFFIX,javdb.vip
@@ -31,5 +31,8 @@ DOMAIN-SUFFIX,apidd.czssdgz.com
 DOMAIN-SUFFIX,apidd.btyjscl.com
 DOMAIN-SUFFIX,api.ffaoa.com
 DOMAIN-SUFFIX,api.aliycloud.com
-# App: 图片 / CDN
+# App: 图片 / CDN(无水印封面源)
 DOMAIN-SUFFIX,tp.spfcas.com
+# JHS-Pro 外链源: 磁力预览 / SubTitleCat 字幕(直连会被墙)
+DOMAIN-SUFFIX,whatslink.info
+DOMAIN-SUFFIX,subtitlecat.com
