@@ -1,11 +1,13 @@
 # NAME: Magnet
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-08-16 00:40:00
-# HOST-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-09-16 03:55:00
+# HOST-SUFFIX: 6
+# TOTAL: 6
 host-suffix, u3c3.com, proxy
 host-suffix, u9a9.com, proxy
 host-suffix, btsow.lol, proxy
 host-suffix, sukebei.nyaa.si, proxy
 host-suffix, magnet.pics, proxy
+# JHS-Pro 磁力预览(WhatsLink 元数据/截图接口)
+host-suffix, whatslink.info, proxy
