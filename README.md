@@ -67,7 +67,9 @@ JavDB 主域 `javdb.com` + 全部 `javdb5xx.com` 镜像, 静态资源 `jdbstatic
 - App API / CDN: `apidd.spthgb.com` / `apidd.czssdgz.com` / `apidd.btyjscl.com` /
   `api.ffaoa.com` / `api.aliycloud.com`, 以及 `tp.spfcas.com` (无水印封面图源)。
 - 磁力: `u3c3.com` / `u9a9.com` / `btsow.lol` / `sukebei.nyaa.si` / `magnet.pics` /
-  `whatslink.info` (磁力在线预览)。
+  `whatslink.info` (磁力在线预览), 以及 JHS-Pro 磁力引擎 `clg55.top` (CiliGou,
+  数字后缀会随官方轮换) / `btsearch.love` (BTSearch) / `sokitty.me` (SoKitty)。
+  2026-09-16 实测以上引擎域国内直连全部不通, 必须走代理。
 - JHS-Pro 脚本外链: `subtitlecat.com` (字幕源)。
 
 已废弃并删除的独立表 (内容已并入本表, 引用链接会 404):
