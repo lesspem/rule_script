@@ -1,9 +1,9 @@
 # NAME: JavDB
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-08-16 01:35:00
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2026-09-16 03:25:00
+# DOMAIN-SUFFIX: 26
+# TOTAL: 26
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdb.app
 DOMAIN-SUFFIX,javdb.vip
@@ -21,5 +21,15 @@ DOMAIN-SUFFIX,javdb573.com
 DOMAIN-SUFFIX,javdb574.com
 DOMAIN-SUFFIX,javdb575.com
 DOMAIN-SUFFIX,javdb576.com
+# 2026-09-16 新增: 首页公告指向的当前镜像(实测 200), 旧列表最高只到 576
+DOMAIN-SUFFIX,javdb580.com
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,blxr5es.com
+# App: API 域名
+DOMAIN-SUFFIX,apidd.spthgb.com
+DOMAIN-SUFFIX,apidd.czssdgz.com
+DOMAIN-SUFFIX,apidd.btyjscl.com
+DOMAIN-SUFFIX,api.ffaoa.com
+DOMAIN-SUFFIX,api.aliycloud.com
+# App: 图片 / CDN
+DOMAIN-SUFFIX,tp.spfcas.com
