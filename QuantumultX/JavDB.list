@@ -1,8 +1,8 @@
 # NAME: JavDB
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-09-16 03:55:00
-# HOST-SUFFIX: 32
+# UPDATED: 2026-09-16 04:00:00
+# HOST-SUFFIX: 35
 # TOTAL: 32
 host-suffix, javdb.com, proxy
 host-suffix, javdb.app, proxy
@@ -40,3 +40,7 @@ host-suffix, btsow.lol, proxy
 host-suffix, sukebei.nyaa.si, proxy
 host-suffix, magnet.pics, proxy
 host-suffix, whatslink.info, proxy
+# 2026-09-16 新增: JHS-Pro 磁力引擎(国内直连实测 000)
+host-suffix, clg55.top, proxy
+host-suffix, btsearch.love, proxy
+host-suffix, sokitty.me, proxy
