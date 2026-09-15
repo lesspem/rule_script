@@ -1,8 +1,8 @@
 # NAME: JavDB
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
-# UPDATED: 2026-09-16 04:05:00
-# DOMAIN-SUFFIX: 33
+# UPDATED: 2026-09-16 04:00:00
+# DOMAIN-SUFFIX: 36
 # TOTAL: 33
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdb.app
@@ -42,3 +42,7 @@ DOMAIN-SUFFIX,u9a9.com
 DOMAIN-SUFFIX,btsow.lol
 DOMAIN-SUFFIX,sukebei.nyaa.si
 DOMAIN-SUFFIX,magnet.pics
+# 2026-09-16 新增: JHS-Pro 磁力引擎(国内直连实测 000)
+DOMAIN-SUFFIX,clg55.top
+DOMAIN-SUFFIX,btsearch.love
+DOMAIN-SUFFIX,sokitty.me
