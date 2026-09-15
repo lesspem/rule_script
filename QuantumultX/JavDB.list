@@ -2,8 +2,8 @@
 # AUTHOR: lesspem
 # REPO: https://github.com/lesspem/rule_script
 # UPDATED: 2026-09-16 03:55:00
-# HOST-SUFFIX: 26
-# TOTAL: 26
+# HOST-SUFFIX: 32
+# TOTAL: 32
 host-suffix, javdb.com, proxy
 host-suffix, javdb.app, proxy
 host-suffix, javdb.vip, proxy
@@ -33,3 +33,10 @@ host-suffix, api.ffaoa.com, proxy
 host-suffix, api.aliycloud.com, proxy
 # App: 图片 / CDN(无水印封面源)
 host-suffix, tp.spfcas.com, proxy
+# 磁力相关(原 Magnet.list 已合并进来)
+host-suffix, u3c3.com, proxy
+host-suffix, u9a9.com, proxy
+host-suffix, btsow.lol, proxy
+host-suffix, sukebei.nyaa.si, proxy
+host-suffix, magnet.pics, proxy
+host-suffix, whatslink.info, proxy
