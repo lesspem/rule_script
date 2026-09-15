@@ -54,3 +54,29 @@ Release 附件、上传的图片附件和仓库归档实际由 S3 分发, 域名
 
 - Surge: `RULE-SET,https://raw.githubusercontent.com/lesspem/rule_script/main/Surge/GitHub.list,PROXY`
 - QX: `https://raw.githubusercontent.com/lesspem/rule_script/main/QuantumultX/GitHub.list, tag=GitHub, force-policy=proxy, enabled=true`
+
+## JavDB
+
+JavDB 主域 `javdb.com` + 全部 `javdb5xx.com` 镜像, 静态资源 `jdbstatic.com`,
+以及 `blxr5es.com`。镜像域是递增序列, 官方换域时抓首页 HTML 里出现的
+`https://javdb5xx.com` 即为当前镜像 (2026-09-16 实测为 `javdb580.com`)。
+`DOMAIN-SUFFIX,javdb580.com` 会一并覆盖 `app.javdb580.com`。
+
+本表是**聚合表**, 除 JavDB 自身外还包含以下同源使用的域名, 引用一张即可:
+
+- App API / CDN: `apidd.spthgb.com` / `apidd.czssdgz.com` / `apidd.btyjscl.com` /
+  `api.ffaoa.com` / `api.aliycloud.com`, 以及 `tp.spfcas.com` (无水印封面图源)。
+- 磁力: `u3c3.com` / `u9a9.com` / `btsow.lol` / `sukebei.nyaa.si` / `magnet.pics` /
+  `whatslink.info` (磁力在线预览)。
+- JHS-Pro 脚本外链: `subtitlecat.com` (字幕源)。
+
+已废弃并删除的独立表 (内容已并入本表, 引用链接会 404):
+
+- `Surge/JHS-Pro.list`
+- `Surge/Magnet.list`
+- `QuantumultX/Magnet.list`
+
+注意: `subtitlecat.com` 在 QX 的 `Subtitle.list` 中亦有收录, 属重复, 无需去除。
+
+- Surge: `RULE-SET,https://raw.githubusercontent.com/lesspem/rule_script/main/Surge/JavDB.list,PROXY`
+- QX: `https://raw.githubusercontent.com/lesspem/rule_script/main/QuantumultX/JavDB.list, tag=JavDB, force-policy=proxy, enabled=true`
